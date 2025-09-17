@@ -1,0 +1,7 @@
+x=int(input("Give me the firt number: "))
+y=int(input("Give ne the second number: "))
+print("Thank you!")
+print(f"{x} + {y} = {x+y}")
+print(f"{x} - {y} = {x-y}")
+print(f"{x} / {y} = {x//y}")
+print(f"{x} * {y} = {x*y}")
